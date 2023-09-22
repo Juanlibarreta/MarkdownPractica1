@@ -19,3 +19,4 @@
 * [ ] Implementación de cuentas Netflix...
 * [x] Plan de Marketing
 * * *
+## Formula de Red de búsqueda
