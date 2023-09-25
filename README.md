@@ -32,12 +32,15 @@ dando lugar a esta grafica
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9c3cwVcO64S4t8X7-SVBMSUid7wKeYnVTew&usqp=CAU)">
 </p>
 
+###### (Es posible que la formula de muestra no se corresponda en la actualidad)
 ~~~
 import matplotlib.pyplot as plt
 fig, ax = plt.subplots()
 ax.pie([5, 4, 3, 2, 1])
 plt.show()
 ~~~
+
+
 
 <p align="center">
   Como se puede observar podemoes en la grafica que nuestro modelo de red neuronal, no solo podemos ver que calcula nuestra emociones
