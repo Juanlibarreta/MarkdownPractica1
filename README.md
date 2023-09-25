@@ -37,6 +37,8 @@ dando lugar a esta grafica
 <br>
   Si no que ademas calcula la felicidadd basandose en el peso
 </p>
+<br>
+<br>
 
-Para más información, visite el link para aprender más sobre este fascinante proyecto [Link](https://www.freecodecamp.org/news/neural-networks-for-dummies-a-quick-intro-to-this-fascinating-field-795b1705104a)
+Para más información, visite el link para aprender más sobre este fascinante proyecto [Link Fascinante](https://www.freecodecamp.org/news/neural-networks-for-dummies-a-quick-intro-to-this-fascinating-field-795b1705104a)
 
