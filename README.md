@@ -29,5 +29,5 @@ $$
 <p align="center">
 dando lugar a esta grafica
 <br>
-![grafica](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9c3cwVcO64S4t8X7-SVBMSUid7wKeYnVTew&usqp=CAU)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9c3cwVcO64S4t8X7-SVBMSUid7wKeYnVTew&usqp=CAU)">
 </p>
