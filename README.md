@@ -1,4 +1,4 @@
-# MarkdownPractica1
+# MarkdownPractica1(Prueba)
 ## Esta aplicación revolucionaria cambiara tu modo de buscar peliculas
 #### Basandonos en una red neuronal usando como base cientos de caras del ser humano, esta app esta pensada que dependiendo del estado de ánimo que muestre tu cara a la app, te recomiende series, películas, tipos de comida, actividades...
 * * *
@@ -30,4 +30,10 @@ $$
 dando lugar a esta grafica
 <br>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9c3cwVcO64S4t8X7-SVBMSUid7wKeYnVTew&usqp=CAU)">
+</p>
+
+<p align="center">
+  Como se puede observar podemoes en la grafica que nuestro modelo de red neuronal, no solo podemos ver que calcula nuestra emociones
+<br>
+  Si no que ademas calcula la felicidadd basandose en el peso
 </p>
