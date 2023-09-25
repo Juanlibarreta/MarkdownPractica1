@@ -1,5 +1,5 @@
 # MarkdownPractica1(Prueba)
-## Esta aplicación revolucionaria cambiara tu modo de buscar peliculas
+## About
 #### Basandonos en una red neuronal usando como base cientos de caras del ser humano, esta app esta pensada que dependiendo del estado de ánimo que muestre tu cara a la app, te recomiende series, películas, tipos de comida, actividades...
 * * *
 ## Dependencias
