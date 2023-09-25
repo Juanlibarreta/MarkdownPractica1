@@ -25,3 +25,7 @@ Utilizaremos esta revolucionara fórmula para hallar el grado de emoción del us
 $$
   x^l_i = \int(\sum_j w^l_{ij}x^{l-1}_j+b^l_i)
 $$
+
+dando lugar a esta grafica
+<br>
+![grafica](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9c3cwVcO64S4t8X7-SVBMSUid7wKeYnVTew&usqp=CAU)
