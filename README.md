@@ -20,3 +20,8 @@
 * [x] Plan de Marketing
 * * *
 ## Formula de Red de búsqueda
+Utilizaremos esta revolucionara fórmula para hallar el grado de emoción del usuario
+
+$$
+  x^l_i = \int(\sum_j w^l_{ij}x^{l-1}_j+b^l_i)
+$$
