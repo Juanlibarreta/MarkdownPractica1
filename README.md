@@ -45,7 +45,7 @@ plt.show()
 <p align="center">
   Como se puede observar podemoes en la grafica que nuestro modelo de red neuronal, no solo podemos ver que calcula nuestra emociones
 <br>
-  Si no que ademas calcula la felicidadd basandose en el peso
+  Si no que ademas calcula la felicidadd basandose en el porcentaje de obesidad!
 </p>
 <br>
 <br>
